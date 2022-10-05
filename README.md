@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A passionate DevOps guy who occasionally writes frontend</h3>
+<h3 align="center">Sam here, a passionate DevOps guy who occasionally writes frontend</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
