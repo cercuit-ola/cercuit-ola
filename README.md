@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cercuit-ola&label=Profile%20views&color=0e75b6&style=flat" alt="cercuit-ola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cercuit-ola" alt="cercuit-ola" /></a> </p>
-
 - 🔭 I’m currently working on [GoXpress](http://goxpress.io/)
 
 - 👯 I’m looking to collaborate on [OS projects](https://ubuntu.com/)
