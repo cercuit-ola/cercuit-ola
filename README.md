@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">My name is Samuel</h1>
-<h3 align="center">a DevOps Engineer from a coffee shop around Budapest</h3>
+<h3 align="center">a Frontend Dev from a coffee shop around Belgrade</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cercuit-ola&label=Profile%20views&color=0e75b6&style=flat" alt="cercuit-ola" /> </p>
 
