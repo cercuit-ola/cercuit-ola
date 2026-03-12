@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@samcenaexe-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/samcenaexe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-okedijisamuelolaide-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okedijisamuelolaide/)
 [![Medium](https://img.shields.io/badge/Medium-@samuelokediji-000000?logo=medium&logoColor=white)](https://samuelokediji.medium.com/)
-
+[![Design](https://img.shields.io/badge/Medium-@samuelokediji-000000?logo=medium&logoColor=white)](https://drive.google.com/file/d/15dgkdV7klMZYLlj15uGidj-khglmfcwM/view?usp=sharing)
 </div>
 
 ---
@@ -24,7 +24,7 @@ My work lives across three lanes:
 - **Writing** — senior technical documentation, smart contract references, API guides, and developer-facing articles that close the gap between protocol and practitioner
 - **DevRel** — building developer communities, producing educational content on Ethereum standards and Web3 tooling, and advocating for open, decentralised infrastructure
 
-Currently building **[GoXpress](http://goxpress.io/)** and shipping open source tools for the Web3 ecosystem.
+
 
 ---
 
