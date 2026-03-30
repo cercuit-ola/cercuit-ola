@@ -33,7 +33,7 @@ My work lives across three lanes:
 | Project | Description | Stack |
 |---|---|---|
 | [decentralized-rpc-hubb](https://github.com/cercuit-ola/decentralized-rpc-hubb) | Community registry for censorship-resistant RPC endpoints | React · TypeScript · Solidity · Supabase |
-| [ethfunding-trackker](https://github.com/cercuit-ola/ethfunding-trackker) | On-chain Ethereum funding dashboard with live contribution feeds | React · TypeScript · ethers.js |
+| [Deconstructing ZKLM ](https://cercuit-ola.github.io/zklm-docs/) | What is ZKML, Why it Matters, Proof of inference, Midnight Compact, SP1+Risc0 Modulus | HMTL, Markdown |
 | [sam-udagram-app](https://github.com/cercuit-ola/sam-udagram-app) | Microservices photo platform deployed on AWS EKS via Docker + Kubernetes | TypeScript · Docker · K8s · AWS |
 | [stagingt-contract](https://github.com/cercuit-ola/stagingt-contract) | Solidity escrow and staging contract for trustless on-chain agreements | Solidity · Ethereum |
 
