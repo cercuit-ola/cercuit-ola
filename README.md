@@ -16,13 +16,13 @@
 
 ## About Me
 
-I'm a **DevOps & Cloud Engineer** with a deep focus on **Web3 infrastructure**, **developer tooling**, and the craft of making complex technical systems legible to the engineers who build on them.
+I'm a **DevOps Engineer with Frontend Development skills in React & Typescript** with a deep focus on **Web3 infrastructure**, **developer tooling**, and the craft of making complex technical systems legible to the engineers who build on them.
 
 My work lives across three lanes:
 
 - **Engineering** — containerised microservices, Kubernetes orchestration on AWS, CI/CD pipelines, and Solidity smart contracts for decentralised applications
 - **Writing** — senior technical documentation, smart contract references, API guides, and developer-facing articles that close the gap between protocol and practitioner
-- **DevRel** — building developer communities, producing educational content on Ethereum standards and Web3 tooling, and advocating for open, decentralised infrastructure
+- **Frontend Developer ** — Frontend developer specializing in building clean, high-performance web apps, dashboards using React, Vite, and TypeScript.
 
 
 
@@ -32,7 +32,7 @@ My work lives across three lanes:
 
 | Project | Description | Stack |
 |---|---|---|
-| [decentralized-rpc-hubb](https://github.com/cercuit-ola/decentralized-rpc-hubb) | Community registry for censorship-resistant RPC endpoints | React · TypeScript · Solidity · Supabase |
+| [decentralized-rpc-hubb](https://github.com/cercuit-ola/decentralized-rpc-hubb | https://decentralizedrpcdash.netlify.app/) | Community registry for censorship-resistant RPC endpoints dashbaord | React · TypeScript · Solidity · Supabase |
 | [Deconstructing ZKLM ](https://cercuit-ola.github.io/zklm-docs/) | What is ZKML, Why it Matters, Proof of inference, Midnight Compact, SP1+Risc0 Modulus | HMTL, Markdown |
 | [LLM Agents in Defi Architecture ](https://cercuit-ola.github.io/defi-agent-pipeline2026/) | A structured framework for understanding how autonomous research agents ingest on-chain data, score opportunities, and produce verifiable outputs| HMTL, Markdown |
 | [sam-udagram-app](https://github.com/cercuit-ola/sam-udagram-app) | Microservices photo platform deployed on AWS EKS via Docker + Kubernetes | TypeScript · Docker · K8s · AWS |
