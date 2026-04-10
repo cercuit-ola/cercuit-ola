@@ -6,7 +6,6 @@
 *Building at the intersection of decentralised infrastructure and developer experience.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cercuit-ola&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cercuit-ola)
-[![Twitter](https://img.shields.io/badge/Twitter-@samcenaexe-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/samcenaexe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-okedijisamuelolaide-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okedijisamuelolaide/)
 [![Medium](https://img.shields.io/badge/Medium-@samuelokediji-000000?logo=medium&logoColor=white)](https://samuelokediji.medium.com/)
 [![Design](https://img.shields.io/badge/Medium-@samuelokediji-000000?logo=medium&logoColor=white)](https://drive.google.com/file/d/15dgkdV7klMZYLlj15uGidj-khglmfcwM/view?usp=sharing)
