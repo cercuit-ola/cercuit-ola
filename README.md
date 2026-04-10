@@ -40,14 +40,6 @@ My work lives across three lanes:
 
 ---
 
-## Technical Writing
-
-I write regularly on Web3 developer tools, Ethereum protocol internals, and cloud infrastructure on [Medium](https://samuelokediji.medium.com/). Recent topics include:
-
-- **ERC-4337 Account Abstraction** — breaking down the standard proposed by Vitalik Buterin and its implications for wallet UX and smart contract accounts
-- **Smart Contract Documentation** — how AI-assisted tooling is transforming how developers document, audit, and share Solidity codebases
-- **Web3 Infrastructure** — decentralised compute, RPC architecture, and the shift from centralised cloud to trustless protocol layers
-
 ---
 
 ## Stack
