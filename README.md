@@ -35,6 +35,7 @@ My work lives across three lanes:
 | [decentralized-rpc-hubb](https://github.com/cercuit-ola/decentralized-rpc-hubb | https://decentralizedrpcdash.netlify.app/) | Community registry for censorship-resistant RPC endpoints dashbaord | React · TypeScript · Solidity · Supabase |
 | [Deconstructing ZKLM ](https://cercuit-ola.github.io/zklm-docs/) | What is ZKML, Why it Matters, Proof of inference, Midnight Compact, SP1+Risc0 Modulus | HMTL, Markdown |
 | [LLM Agents in Defi Architecture ](https://cercuit-ola.github.io/defi-agent-pipeline2026/) | A structured framework for understanding how autonomous research agents ingest on-chain data, score opportunities, and produce verifiable outputs| HMTL, Markdown |
+| [Fullstacl CI/CD on AWS ](https://github.com/cercuit-ola/Fullstack-CI-CD/) | A security-gated CI/CD pipeline that blocks vulnerable code from production using OWASP, Checkov, Trivy, and Gitleaks deployed to AWS ECS via Terraform with zero long-lived credentials.|  GitHub Actions (OIDC), Terraform, AWS ECS Fargate, ECR, Secrets Manager, and four sequential security gates: OWASP Dependency-Check → Checkov → Trivy + Gitleaks → ECS Deploy. |
 | [sam-udagram-app](https://github.com/cercuit-ola/sam-udagram-app) | Microservices photo platform deployed on AWS EKS via Docker + Kubernetes | TypeScript · Docker · K8s · AWS |
 | [stagingt-contract](https://github.com/cercuit-ola/stagingt-contract) | Solidity escrow and staging contract for trustless on-chain agreements | Solidity · Ethereum |
 
