@@ -1,7 +1,7 @@
 <div align="center">
 
 # Samuel Okediji
-### DevOps Engineer · Web3 Developer · Technical Writer · DevRel
+### DevOps Engineer · Web3 Technical Writer · DevRel
 
 *Building at the intersection of decentralised infrastructure and developer experience.*
 
@@ -104,9 +104,8 @@ I'm open to conversations about Web3 infrastructure, DevRel roles, technical wri
 
 - 📝 Articles: [samuelokediji.medium.com](https://samuelokediji.medium.com/)
 - 💼 LinkedIn: [linkedin.com/in/okedijisamuelolaide](https://www.linkedin.com/in/okedijisamuelolaide/)
-- 🐦 Twitter: [@samcenaexe](https://twitter.com/samcenaexe)
 - 📝 Design: https://drive.google.com/file/d/15dgkdV7klMZYLlj15uGidj-khglmfcwM/view?usp=sharing
-- 🌍 Currently building from Belgrade | Budapest | Lag
+- 🌍 Currently building from Belgrade | Lagos Nigeria
 
 ---
 
