@@ -1,7 +1,7 @@
 <div align="center">
 
 # Samuel Okediji
-### DevOps Engineer · Web3 Technical Writer · DevRel
+### DevOps Engineer · Fullstack Engineer · DevRel
 
 *Building at the intersection of decentralised infrastructure and developer experience.*
 
